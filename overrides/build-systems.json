@@ -363,7 +363,7 @@
     "poetry-core"
   ],
   "exceptiongroup": [
-    "flit_scm",
+    "flit-scm",
     "flitBuildHook"
   ],
   "falcon": [

@@ -26,6 +26,7 @@ BUILD_SYSTEMS = [
     "poetry-core",
     "flit",
     "flit-core",
+    "flit_scm",
     "pbr",
     "flitBuildHook",
     "cython",
